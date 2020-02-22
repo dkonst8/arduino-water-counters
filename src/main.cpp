@@ -5,7 +5,6 @@ int i = 1;
 void setup()
 {
   // initialize serial communication at 115200 bits per second:
-  // 11
   Serial.begin(9600);
 }
 
